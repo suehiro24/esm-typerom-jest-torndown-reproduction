@@ -1,0 +1,15 @@
+{
+   "compilerOptions": {
+      "types": ["jest", "node"],
+      "target": "ES2022",
+      "module": "NodeNext",
+      "moduleResolution": "NodeNext",
+      "outDir": "./build",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true,
+      "esModuleInterop": true,
+      "strict": true,
+      "skipLibCheck": true
+   }
+}
